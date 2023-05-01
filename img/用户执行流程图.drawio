@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T08:30:00.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="wfLhuCfMRzzPsWBjoxNy" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T08:34:46.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="SE03fajIZq-tQgIu_gYY" version="21.2.3" type="github">
   <diagram name="第 1 页" id="euEaf28D1Kuny6yM_ITr">
-    <mxGraphModel dx="1235" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="21200" pageHeight="55500" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="21200" pageHeight="55500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,9 +49,6 @@
           <mxGeometry x="578" y="875.25" width="90" height="53.25" as="geometry" />
         </mxCell>
         <mxCell id="U6TWn9f8TfeEKBh5Oc99-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U6TWn9f8TfeEKBh5Oc99-115" target="U6TWn9f8TfeEKBh5Oc99-118">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="U6TWn9f8TfeEKBh5Oc99-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U6TWn9f8TfeEKBh5Oc99-115" target="U6TWn9f8TfeEKBh5Oc99-180">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U6TWn9f8TfeEKBh5Oc99-115" value="输入其他信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
@@ -123,6 +120,9 @@
         <mxCell id="U6TWn9f8TfeEKBh5Oc99-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.427;entryY=0.951;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U6TWn9f8TfeEKBh5Oc99-154" target="U6TWn9f8TfeEKBh5Oc99-158">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="U6TWn9f8TfeEKBh5Oc99-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U6TWn9f8TfeEKBh5Oc99-154" target="U6TWn9f8TfeEKBh5Oc99-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U6TWn9f8TfeEKBh5Oc99-154" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="785" y="577.5" width="80" height="30" as="geometry" />
         </mxCell>
@@ -177,14 +177,41 @@
         <mxCell id="U6TWn9f8TfeEKBh5Oc99-183" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1273" y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U6TWn9f8TfeEKBh5Oc99-184" value="根据用户输入资料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="746.5" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="U6TWn9f8TfeEKBh5Oc99-185" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1050" y="490" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="U6TWn9f8TfeEKBh5Oc99-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U6TWn9f8TfeEKBh5Oc99-187" target="U6TWn9f8TfeEKBh5Oc99-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U6TWn9f8TfeEKBh5Oc99-187" value="导出PDF简历" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="607.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U6TWn9f8TfeEKBh5Oc99-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U6TWn9f8TfeEKBh5Oc99-189" target="U6TWn9f8TfeEKBh5Oc99-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U6TWn9f8TfeEKBh5Oc99-189" value="求职页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="467.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U6TWn9f8TfeEKBh5Oc99-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U6TWn9f8TfeEKBh5Oc99-191" target="U6TWn9f8TfeEKBh5Oc99-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U6TWn9f8TfeEKBh5Oc99-191" value="选择心仪岗位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U6TWn9f8TfeEKBh5Oc99-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U6TWn9f8TfeEKBh5Oc99-193" target="U6TWn9f8TfeEKBh5Oc99-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U6TWn9f8TfeEKBh5Oc99-193" value="个人信息中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1248" y="712.51" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U6TWn9f8TfeEKBh5Oc99-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U6TWn9f8TfeEKBh5Oc99-196" target="U6TWn9f8TfeEKBh5Oc99-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U6TWn9f8TfeEKBh5Oc99-196" value="修改头像、证件照等资料" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="575.5" width="118" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="U6TWn9f8TfeEKBh5Oc99-199" value="进行简历投递" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="270" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
