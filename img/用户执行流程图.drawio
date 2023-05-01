@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T08:24:46.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="zvPJTfcsQDHE2c0WOy8H" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T08:27:14.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="XnVZMvGRBEpHLU-GRvCR" version="21.2.3" type="github">
   <diagram name="第 1 页" id="euEaf28D1Kuny6yM_ITr">
-    <mxGraphModel dx="1235" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="21200" pageHeight="55500" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="21200" pageHeight="55500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,8 +153,20 @@
         <mxCell id="U6TWn9f8TfeEKBh5Oc99-169" value="指定时间重新激活计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="350" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="U6TWn9f8TfeEKBh5Oc99-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U6TWn9f8TfeEKBh5Oc99-173" target="U6TWn9f8TfeEKBh5Oc99-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U6TWn9f8TfeEKBh5Oc99-173" value="列入完成计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="470" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U6TWn9f8TfeEKBh5Oc99-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U6TWn9f8TfeEKBh5Oc99-176" target="U6TWn9f8TfeEKBh5Oc99-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U6TWn9f8TfeEKBh5Oc99-176" value="选择是否出现在简历中" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1243" y="458.37" width="90" height="53.25" as="geometry" />
+        </mxCell>
+        <mxCell id="U6TWn9f8TfeEKBh5Oc99-180" value="个人简历界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1248" y="607.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
